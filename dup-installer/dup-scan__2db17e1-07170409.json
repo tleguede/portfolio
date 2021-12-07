@@ -1,0 +1,226 @@
+{
+    "RPT": {
+        "ScanTime": "3.693 sec.",
+        "ScanFile": "20211207_monportfolio_2db17e173a6fa0383371_20211207170409_scan.json",
+        "ScanCreated": "2021-12-07 17:04:20",
+        "ScanPath": "\/home\/tleguede\/Downloads\/Compressed\/portfolio\/wp-content\/backups-dup-pro\/tmp\/20211207_monportfolio_2db17e173a6fa0383371_20211207170409_scan.json"
+    },
+    "ARC": {
+        "Size": "106.77MB",
+        "DirCount": "914",
+        "FileCount": "5,547",
+        "FullCount": "6,461",
+        "USize": 111959387,
+        "UDirCount": 914,
+        "UFileCount": 5547,
+        "UFullCount": 6461,
+        "WarnFileCount": 0,
+        "WarnDirCount": 0,
+        "UnreadableDirCount": 0,
+        "UnreadableFileCount": 0,
+        "FilterDirsAll": [
+            "\/home\/tleguede\/Downloads\/Compressed\/portfolio\/.opcache",
+            "\/home\/tleguede\/Downloads\/Compressed\/portfolio\/.tmb",
+            "\/home\/tleguede\/Downloads\/Compressed\/portfolio\/wp-content\/ai1wm-backups",
+            "\/home\/tleguede\/Downloads\/Compressed\/portfolio\/wp-content\/backups-dup-lite",
+            "\/home\/tleguede\/Downloads\/Compressed\/portfolio\/wp-content\/backups-dup-pro",
+            "\/home\/tleguede\/Downloads\/Compressed\/portfolio\/wp-content\/backups-dup-pro",
+            "\/home\/tleguede\/Downloads\/Compressed\/portfolio\/wp-content\/backupwordpress",
+            "\/home\/tleguede\/Downloads\/Compressed\/portfolio\/wp-content\/bps-backup",
+            "\/home\/tleguede\/Downloads\/Compressed\/portfolio\/wp-content\/cache",
+            "\/home\/tleguede\/Downloads\/Compressed\/portfolio\/wp-content\/content\/cache",
+            "\/home\/tleguede\/Downloads\/Compressed\/portfolio\/wp-content\/contents\/cache",
+            "\/home\/tleguede\/Downloads\/Compressed\/portfolio\/wp-content\/infinitewp\/backups",
+            "\/home\/tleguede\/Downloads\/Compressed\/portfolio\/wp-content\/managewp\/backups",
+            "\/home\/tleguede\/Downloads\/Compressed\/portfolio\/wp-content\/old-cache",
+            "\/home\/tleguede\/Downloads\/Compressed\/portfolio\/wp-content\/plugins\/all-in-one-wp-migration\/storage",
+            "\/home\/tleguede\/Downloads\/Compressed\/portfolio\/wp-content\/plugins\/really-simple-captcha\/tmp",
+            "\/home\/tleguede\/Downloads\/Compressed\/portfolio\/wp-content\/plugins\/wordfence\/tmp",
+            "\/home\/tleguede\/Downloads\/Compressed\/portfolio\/wp-content\/updraft",
+            "\/home\/tleguede\/Downloads\/Compressed\/portfolio\/wp-content\/uploads\/aiowps_backups",
+            "\/home\/tleguede\/Downloads\/Compressed\/portfolio\/wp-content\/uploads\/backup-guard",
+            "\/home\/tleguede\/Downloads\/Compressed\/portfolio\/wp-content\/uploads\/backupbuddy_backups",
+            "\/home\/tleguede\/Downloads\/Compressed\/portfolio\/wp-content\/uploads\/backupbuddy_temp",
+            "\/home\/tleguede\/Downloads\/Compressed\/portfolio\/wp-content\/uploads\/ithemes-security\/backups",
+            "\/home\/tleguede\/Downloads\/Compressed\/portfolio\/wp-content\/uploads\/mainwp\/backup",
+            "\/home\/tleguede\/Downloads\/Compressed\/portfolio\/wp-content\/uploads\/pb_backupbuddy",
+            "\/home\/tleguede\/Downloads\/Compressed\/portfolio\/wp-content\/uploads\/snapshots",
+            "\/home\/tleguede\/Downloads\/Compressed\/portfolio\/wp-content\/uploads\/sucuri",
+            "\/home\/tleguede\/Downloads\/Compressed\/portfolio\/wp-content\/uploads\/wp-clone",
+            "\/home\/tleguede\/Downloads\/Compressed\/portfolio\/wp-content\/uploads\/wp_all_backup",
+            "\/home\/tleguede\/Downloads\/Compressed\/portfolio\/wp-content\/uploads\/wpbackitup_backups",
+            "\/home\/tleguede\/Downloads\/Compressed\/portfolio\/wp-content\/wfcache",
+            "\/home\/tleguede\/Downloads\/Compressed\/portfolio\/wp-content\/wishlist-backup",
+            "\/home\/tleguede\/Downloads\/Compressed\/portfolio\/wp-snapshots"
+        ],
+        "FilterFilesAll": [
+            ".DS_Store",
+            "\/home\/tleguede\/Downloads\/Compressed\/portfolio\/.htaccess",
+            "\/home\/tleguede\/Downloads\/Compressed\/portfolio\/.user.ini",
+            "\/home\/tleguede\/Downloads\/Compressed\/portfolio\/php.ini",
+            "\/home\/tleguede\/Downloads\/Compressed\/portfolio\/web.config",
+            "\/home\/tleguede\/Downloads\/Compressed\/portfolio\/wp-config.php",
+            "dbcache",
+            "debug_log",
+            "error_log",
+            "objectcache",
+            "pgcache",
+            "ws_ftp.log"
+        ],
+        "FilterExtsAll": [],
+        "FilteredCoreDirs": [],
+        "FilteredSites": [],
+        "Status": {
+            "Size": "Good",
+            "Names": "Good",
+            "Big": "Good",
+            "AddonSites": "Good",
+            "UnreadableItems": "Good",
+            "showCreateFuncStatus": "Good",
+            "showCreateFunc": true,
+            "HasImportableSites": false,
+            "HasNotImportableSites": false,
+            "CanbeMigratePackage": true,
+            "HasFilteredCoreFolders": false,
+            "HasFilteredSiteTables": false,
+            "HasFilteredSites": false,
+            "Network": "Good",
+            "IsDBOnly": 0,
+            "PackageIsNotImportable": false
+        },
+        "RecursiveLinks": [],
+        "UnreadableItems": [],
+        "Subsites": []
+    },
+    "SRV": {
+        "Brand": {
+            "LogoAttachmentExists": false,
+            "LogoCount": 0,
+            "LogoFinded": 0,
+            "LogoImageExists": true,
+            "LogoImages": [],
+            "Name": "Default",
+            "Notes": "The default content used when a brand is not defined"
+        },
+        "HOST": [],
+        "PHP": {
+            "websrv": false,
+            "openbase": true,
+            "maxtime": true,
+            "openssl": true,
+            "mysqli": true,
+            "allowurlfopen": true,
+            "curlavailable": false,
+            "arch64bit": true,
+            "minMemory": false,
+            "version": true,
+            "ALL": "Warn"
+        },
+        "WP": {
+            "version": true,
+            "core": true,
+            "ismu": false,
+            "ismuplus": false,
+            "ALL": "Good"
+        }
+    },
+    "DB": {
+        "Status": {
+            "Success": true,
+            "Size": "Good",
+            "Rows": "Good",
+            "Triggers": "Good"
+        },
+        "Size": "784KB",
+        "Rows": "223",
+        "TableCount": 14,
+        "TableList": {
+            "wp_commentmeta": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "48KB",
+                "USize": 49152
+            },
+            "wp_comments": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "96KB",
+                "USize": 98304
+            },
+            "wp_duplicator_pro_entities": {
+                "Case": 0,
+                "Rows": "5",
+                "Size": "32KB",
+                "USize": 32768
+            },
+            "wp_duplicator_pro_packages": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "32KB",
+                "USize": 32768
+            },
+            "wp_links": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "32KB",
+                "USize": 32768
+            },
+            "wp_options": {
+                "Case": 0,
+                "Rows": "162",
+                "Size": "128KB",
+                "USize": 131072
+            },
+            "wp_postmeta": {
+                "Case": 0,
+                "Rows": "24",
+                "Size": "48KB",
+                "USize": 49152
+            },
+            "wp_posts": {
+                "Case": 0,
+                "Rows": "12",
+                "Size": "80KB",
+                "USize": 81920
+            },
+            "wp_term_relationships": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "32KB",
+                "USize": 32768
+            },
+            "wp_term_taxonomy": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "48KB",
+                "USize": 49152
+            },
+            "wp_termmeta": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "48KB",
+                "USize": 49152
+            },
+            "wp_terms": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "48KB",
+                "USize": 49152
+            },
+            "wp_usermeta": {
+                "Case": 0,
+                "Rows": "19",
+                "Size": "48KB",
+                "USize": 49152
+            },
+            "wp_users": {
+                "Case": 0,
+                "Rows": "1",
+                "Size": "64KB",
+                "USize": 65536
+            }
+        },
+        "FilteredTables": []
+    },
+    "Status": 1
+}
